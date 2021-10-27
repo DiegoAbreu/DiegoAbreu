@@ -18,7 +18,7 @@ This code was inspired by rafaballerini (https://github.com/rafaballerini/rafaba
 
 <!-- Stats -->
 <div align="center">
-  <a href="https://diegoabre.com">
+  <a href=#>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoabreu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoabreu&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -47,8 +47,7 @@ This code was inspired by rafaballerini (https://github.com/rafaballerini/rafaba
 -->
 
 <!-- Animation -->  
-<div style="display: inline_block"><br>
-  <img align="left" alt="Groku-pic" height="130" style="border-radius:5px;" src="https://media1.giphy.com/media/kI2hsMDS4zjK7Fbif8/giphy.gif?cid=ecf05e47yi3q1cyuhl670etk3dslrggebqmarhdo0u429x8f&rid=giphy.gif&ct=g">
-  <img align="right" alt="Groku-pic" height="130" style="border-radius:5px;" src="https://github.com/diegoabreu/diegoabreu/blob/output/github-contribution-grid-snake.svg">
-  </div>
-
+<div style="display: inline_block" class="row"><br>
+    <img src="https://media1.giphy.com/media/kI2hsMDS4zjK7Fbif8/giphy.gif?cid=ecf05e47yi3q1cyuhl670etk3dslrggebqmarhdo0u429x8f&rid=giphy.gif&ct=g" alt="Snow" style="width:30%">
+    <img src="https://github.com/diegoabreu/diegoabreu/blob/output/github-contribution-grid-snake.svg" alt="Forest" style="width:69%">
+</div>
