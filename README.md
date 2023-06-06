@@ -16,12 +16,12 @@ You can click the Preview link to take a look at your changes.
 This code was inspired by rafaballerini (https://github.com/rafaballerini/rafaballerini). 
 -->
 
-<!-- Stats -->
+<!-- Stats 
 <div align="center">
   <a href=#>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoabreu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoabreu&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoabreu&layout=compact&langs_count=7&theme=dark"/> 
+</div> -->
 
 <!-- Badges -->
 <!-- Disabled
